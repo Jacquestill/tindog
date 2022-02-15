@@ -151,7 +151,7 @@ body {
     width: 65%
   }
 
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 }
